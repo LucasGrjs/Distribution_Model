@@ -13,7 +13,7 @@ Java Binding for Open MPI (https://www.open-mpi.org/faq/?category=java)
 
 ./startMpiModel DistrbutionModel/Distribution_model_KMEAN.xml N
 
-./startMpiModel DistrbutionModel/Distribution_model_GRID.xml N
+./startMpiModel DistrbutionModel/Distribution_model_GRID.xml 4
 
 # Results 
 
