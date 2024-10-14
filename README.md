@@ -18,5 +18,5 @@ Java Binding for Open MPI (https://www.open-mpi.org/faq/?category=java)
 # Results 
 
 All the results of these examples can be found in /output.log after the execution of above model.
-/output.log/console-outputs-N will contains the logs of Processor N
+/output.log/1/N/stdout will contains the logs of Processor N
 /output.log/snapshot/N/ will contain the snapshot of the simualtion on Processor N
