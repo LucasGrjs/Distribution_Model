@@ -1,3 +1,22 @@
 # Distribution_Model
 
 Proof of concepts and experimentations for the article : "Distribution model: an approach to facilitate the distribution ofagent-based models" for AAMAS 2025 ([https://euramas.github.io/eumas2024/](https://aamas2025.org/))
+
+# Requirements  
+Java 17
+
+mpirun (Open MPI) 4.1.4 (https://www.open-mpi.org/software/ompi/v4.1/)
+
+Java Binding for Open MPI (https://www.open-mpi.org/faq/?category=java)
+
+# How to start examples : (N > 2 and < 4)
+
+./startMpiModel DistrbutionModel/Distribution_model_KMEAN.xml N
+
+./startMpiModel DistrbutionModel/Distribution_model_GRID.xml N
+
+# Results 
+
+All the results of these examples can be found in /output.log after the execution of above model.
+/output.log/console-outputs-N will contains the logs of Processor N
+/output.log/snapshot/N/ will contain the snapshot of the simualtion on Processor N
