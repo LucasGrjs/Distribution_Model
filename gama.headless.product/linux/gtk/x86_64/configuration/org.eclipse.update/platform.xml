@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1728915426882" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="gama.feature.dependencies" version="0.0.0.202410141413" url="features/gama.feature.dependencies_0.0.0.202410141413/" plugin-identifier="gama.dependencies">
+		</feature>
+		<feature id="gama.feature.library" version="0.0.0.202410141413" url="features/gama.feature.library_0.0.0.202410141413/" plugin-identifier="gama.library">
+		</feature>
+		<feature id="gama.experimental.feature.MPI" version="0.0.0.202410141413" url="features/gama.experimental.feature.MPI_0.0.0.202410141413/">
+		</feature>
+		<feature id="gama.feature.extensions" version="0.0.0.202410141413" url="features/gama.feature.extensions_0.0.0.202410141413/" plugin-identifier="gama.extension.maths">
+		</feature>
+		<feature id="gama.feature.extension.image" version="0.0.0.202410141413" url="features/gama.feature.extension.image_0.0.0.202410141413/" plugin-identifier="gama.extension.image">
+		</feature>
+		<feature id="gama.experimental.feature.proxy" version="0.0.0.202410141413" url="features/gama.experimental.feature.proxy_0.0.0.202410141413/">
+		</feature>
+		<feature id="gama.feature.core" version="0.0.0.202410141413" url="features/gama.feature.core_0.0.0.202410141413/" plugin-identifier="gama.core">
+		</feature>
+	</site>
+</config>

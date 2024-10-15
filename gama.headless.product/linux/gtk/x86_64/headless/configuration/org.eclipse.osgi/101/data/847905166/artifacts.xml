@@ -1,0 +1,1727 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1728984898811'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='172'>
+    <artifact classifier='osgi.bundle' id='gama.extension.bdi' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='235549'/>
+        <property name='download.size' value='235549'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.bdi_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.bdi_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.property' version='1.10.100.v20230708-0916'>
+      <properties size='2'>
+        <property name='artifact.size' value='170094'/>
+        <property name='download.size' value='170094'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding.property_1.10.100.v20230708-0916.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding.property_1.10.100.v20230708-0916.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.ecore' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='19962'/>
+        <property name='download.size' value='19962'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.ecore_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.ecore_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.upnp' version='1.2.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='31309'/>
+        <property name='download.size' value='31309'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.upnp_1.2.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.upnp_1.2.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.activities' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='12684'/>
+        <property name='download.size' value='12684'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.activities_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.activities_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.text' version='3.13.100.v20230801-1334'>
+      <properties size='2'>
+        <property name='artifact.size' value='306314'/>
+        <property name='download.size' value='306314'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf.provider.filetransfer' version='3.3.0.v20230422-0242'>
+      <properties size='2'>
+        <property name='artifact.size' value='138111'/>
+        <property name='download.size' value='138111'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.useradmin' version='1.1.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='36679'/>
+        <property name='download.size' value='36679'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.useradmin_1.1.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.useradmin_1.1.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.processor' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='110315'/>
+        <property name='download.size' value='110315'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.processor_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.processor_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.app' version='1.6.400.v20231103-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='94153'/>
+        <property name='download.size' value='94153'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.app_1.6.400.v20231103-0807.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.app_1.6.400.v20231103-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.simpleconfigurator' version='1.5.0.v20230919-1457'>
+      <properties size='2'>
+        <property name='artifact.size' value='50213'/>
+        <property name='download.size' value='50213'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.simpleconfigurator_1.5.0.v20230919-1457.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.simpleconfigurator_1.5.0.v20230919-1457.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.net' version='1.5.200.v20231106-1240'>
+      <properties size='2'>
+        <property name='artifact.size' value='50968'/>
+        <property name='download.size' value='50968'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.net_1.5.200.v20231106-1240.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.net_1.5.200.v20231106-1240.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.contexts' version='1.12.400.v20231103-2012'>
+      <properties size='2'>
+        <property name='artifact.size' value='58044'/>
+        <property name='download.size' value='58044'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.contexts_1.12.400.v20231103-2012.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.contexts_1.12.400.v20231103-2012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.console' version='1.4.600.v20231106-0859'>
+      <properties size='2'>
+        <property name='artifact.size' value='134089'/>
+        <property name='download.size' value='134089'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.console_1.4.600.v20231106-0859.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.console_1.4.600.v20231106-0859.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.metadata.repository' version='1.5.200.v20231021-1438'>
+      <properties size='2'>
+        <property name='artifact.size' value='141168'/>
+        <property name='download.size' value='141168'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.metadata.repository_1.5.200.v20231021-1438.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.metadata.repository_1.5.200.v20231021-1438.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.util.position' version='1.0.1.201505202026'>
+      <properties size='2'>
+        <property name='artifact.size' value='14057'/>
+        <property name='download.size' value='14057'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.position_1.0.1.201505202026.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.position_1.0.1.201505202026.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.contenttype' version='3.9.200.v20230914-0751'>
+      <properties size='2'>
+        <property name='artifact.size' value='104967'/>
+        <property name='download.size' value='104967'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.contenttype_3.9.200.v20230914-0751.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.contenttype_3.9.200.v20230914-0751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.team.core' version='3.10.200.v20231106-1240'>
+      <properties size='2'>
+        <property name='artifact.size' value='414871'/>
+        <property name='download.size' value='414871'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.team.core_3.10.200.v20231106-1240.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.team.core_3.10.200.v20231106-1240.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.concurrent' version='1.2.200.v20231103-0833'>
+      <properties size='2'>
+        <property name='artifact.size' value='28820'/>
+        <property name='download.size' value='28820'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.concurrent_1.2.200.v20231103-0833.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.concurrent_1.2.200.v20231103-0833.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.jarprocessor' version='1.3.200.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='65979'/>
+        <property name='download.size' value='65979'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.jarprocessor_1.3.200.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.jarprocessor_1.3.200.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtend.lib.macro' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='82122'/>
+        <property name='download.size' value='82122'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtend.lib.macro_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtend.lib.macro_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.shell' version='1.1.4'>
+      <properties size='2'>
+        <property name='artifact.size' value='59076'/>
+        <property name='download.size' value='59076'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.shell_1.1.4.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.shell_1.1.4.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.feature.core' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.core_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.core_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf.filetransfer' version='5.1.103.v20230705-0614'>
+      <properties size='2'>
+        <property name='artifact.size' value='57027'/>
+        <property name='download.size' value='57027'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.filetransfer_5.1.103.v20230705-0614.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.filetransfer_5.1.103.v20230705-0614.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.i18n' version='1.17.0.v20231009-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='20122'/>
+        <property name='download.size' value='20122'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.i18n_1.17.0.v20231009-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.i18n_1.17.0.v20231009-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.component' version='1.5.1.202212101352'>
+      <properties size='2'>
+        <property name='artifact.size' value='66447'/>
+        <property name='download.size' value='66447'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.component_1.5.1.202212101352.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.component_1.5.1.202212101352.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.smap' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='23245'/>
+        <property name='download.size' value='23245'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.smap_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.smap_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm' version='9.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='123598'/>
+        <property name='download.size' value='123598'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm_9.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm_9.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.security' version='1.4.100.v20231012-1825'>
+      <properties size='2'>
+        <property name='artifact.size' value='118636'/>
+        <property name='download.size' value='118636'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.security_1.4.100.v20231012-1825.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.security_1.4.100.v20231012-1825.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.css' version='1.17.0.v20231009-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='364587'/>
+        <property name='download.size' value='364587'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.css_1.17.0.v20231009-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.css_1.17.0.v20231009-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.maths' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='110267'/>
+        <property name='download.size' value='110267'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.maths_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.maths_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.touchpoint.natives' version='1.5.100.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='91132'/>
+        <property name='download.size' value='91132'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.touchpoint.natives_1.5.100.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.touchpoint.natives_1.5.100.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtend.lib' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='135085'/>
+        <property name='download.size' value='135085'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtend.lib_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtend.lib_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore.change' version='2.15.0.v20230211-1150'>
+      <properties size='2'>
+        <property name='artifact.size' value='93705'/>
+        <property name='download.size' value='93705'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore.change_2.15.0.v20230211-1150.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore.change_2.15.0.v20230211-1150.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher.gtk.linux.x86_64' version='1.2.800.v20231003-1442'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.2.800.v20231003-1442/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.2.800.v20231003-1442'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.xbase.lib' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='167059'/>
+        <property name='download.size' value='167059'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.xbase.lib_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.xbase.lib_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.urischeme' version='1.3.100.v20230727-0604'>
+      <properties size='2'>
+        <property name='artifact.size' value='55470'/>
+        <property name='download.size' value='55470'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.urischeme_1.3.100.v20230727-0604.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.urischeme_1.3.100.v20230727-0604.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.util' version='3.7.300.v20231104-1118'>
+      <properties size='2'>
+        <property name='artifact.size' value='14765'/>
+        <property name='download.size' value='14765'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.util_3.7.300.v20231104-1118.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.util_3.7.300.v20231104-1118.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore' version='2.35.0.v20230829-0934'>
+      <properties size='2'>
+        <property name='artifact.size' value='1352942'/>
+        <property name='download.size' value='1352942'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore_2.35.0.v20230829-0934.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore_2.35.0.v20230829-0934.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm.util' version='9.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='91131'/>
+        <property name='download.size' value='91131'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.util_9.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.util_9.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.extensionlocation' version='1.5.200.v20230914-2056'>
+      <properties size='2'>
+        <property name='artifact.size' value='38598'/>
+        <property name='download.size' value='38598'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.extensionlocation_1.5.200.v20230914-2056.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.extensionlocation_1.5.200.v20230914-2056.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm.tree' version='9.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='51935'/>
+        <property name='download.size' value='51935'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.tree_9.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.tree_9.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.edit' version='2.20.0.v20231107-0612'>
+      <properties size='2'>
+        <property name='artifact.size' value='308861'/>
+        <property name='download.size' value='308861'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.edit_2.20.0.v20231107-0612.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.edit_2.20.0.v20231107-0612.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.feature.extension.image' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.extension.image_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.extension.image_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.tukaani.xz' version='1.9.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='116013'/>
+        <property name='download.size' value='116013'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.tukaani.xz_1.9.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.tukaani.xz_1.9.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.services' version='3.11.200.v20231106-0901'>
+      <properties size='2'>
+        <property name='artifact.size' value='49318'/>
+        <property name='download.size' value='49318'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.services_3.11.200.v20231106-0901.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.services_3.11.200.v20231106-0901.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.cli' version='1.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='59528'/>
+        <property name='download.size' value='59528'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.cli_1.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.cli_1.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm.commons' version='9.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='72194'/>
+        <property name='download.size' value='72194'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.commons_9.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.commons_9.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.constants' version='1.17.0.v20231009-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='16820'/>
+        <property name='download.size' value='16820'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.constants_1.17.0.v20231009-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.constants_1.17.0.v20231009-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di' version='1.9.200.v20231105-0754'>
+      <properties size='2'>
+        <property name='artifact.size' value='64434'/>
+        <property name='download.size' value='64434'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di_1.9.200.v20231105-0754.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di_1.9.200.v20231105-0754.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.cm' version='1.6.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='55580'/>
+        <property name='download.size' value='55580'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.cm_1.6.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.cm_1.6.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.logging' version='1.2.0.v20180409-1502'>
+      <properties size='2'>
+        <property name='artifact.size' value='73163'/>
+        <property name='download.size' value='73163'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.expressions' version='3.9.200.v20230921-0857'>
+      <properties size='2'>
+        <property name='artifact.size' value='97576'/>
+        <property name='download.size' value='97576'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.expressions_3.9.200.v20230921-0857.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.expressions_3.9.200.v20230921-0857.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf.provider.filetransfer.ssl' version='1.1.0.v20230422-0242'>
+      <properties size='2'>
+        <property name='artifact.size' value='11853'/>
+        <property name='download.size' value='11853'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.provider.filetransfer.ssl_1.1.0.v20230422-0242.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.provider.filetransfer.ssl_1.1.0.v20230422-0242.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.simpleconfigurator.manipulator' version='2.3.0.v20230919-1457'>
+      <properties size='2'>
+        <property name='artifact.size' value='29491'/>
+        <property name='download.size' value='29491'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.3.0.v20230919-1457.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.3.0.v20230919-1457.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.extensions' version='0.18.100.v20231103-2012'>
+      <properties size='2'>
+        <property name='artifact.size' value='13321'/>
+        <property name='download.size' value='13321'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.extensions_0.18.100.v20231103-2012.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.extensions_0.18.100.v20231103-2012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.frameworkadmin.equinox' version='1.3.0.v20231106-1059'>
+      <properties size='2'>
+        <property name='artifact.size' value='73503'/>
+        <property name='download.size' value='73503'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.frameworkadmin.equinox_1.3.0.v20231106-1059.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.frameworkadmin.equinox_1.3.0.v20231106-1059.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.commands' version='1.1.200.v20231108-1058'>
+      <properties size='2'>
+        <property name='artifact.size' value='30056'/>
+        <property name='download.size' value='30056'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.commands_1.1.200.v20231108-1058.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.commands_1.1.200.v20231108-1058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.objectweb.asm.tree.analysis' version='9.6.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='34041'/>
+        <property name='download.size' value='34041'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.tree.analysis_9.6.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.objectweb.asm.tree.analysis_9.6.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.wireadmin' version='1.0.2.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='43876'/>
+        <property name='download.size' value='43876'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.wireadmin_1.0.2.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.wireadmin_1.0.2.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.variables' version='3.6.200.v20230914-0751'>
+      <properties size='2'>
+        <property name='artifact.size' value='38432'/>
+        <property name='download.size' value='38432'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.variables_3.6.200.v20230914-0751.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.variables_3.6.200.v20230914-0751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sun.jna' version='5.13.0.v20230812-1000'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.sun.jna_5.13.0.v20230812-1000/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.sun.jna_5.13.0.v20230812-1000'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.dependencies' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='71975908'/>
+        <property name='download.size' value='71975908'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.dependencies_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.dependencies_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filebuffers' version='3.8.200.v20230921-0933'>
+      <properties size='2'>
+        <property name='artifact.size' value='119631'/>
+        <property name='download.size' value='119631'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.filebuffers_3.8.200.v20230921-0933.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.filebuffers_3.8.200.v20230921-0933.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.transport.ecf' version='1.4.100.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='49132'/>
+        <property name='download.size' value='49132'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.transport.ecf_1.4.100.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.transport.ecf_1.4.100.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.runtime' version='1.1.6'>
+      <properties size='2'>
+        <property name='artifact.size' value='203481'/>
+        <property name='download.size' value='203481'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.runtime_1.1.6.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.runtime_1.1.6.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gaml.compiler' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='636796'/>
+        <property name='download.size' value='636796'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gaml.compiler_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gaml.compiler_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='jakarta.annotation-api' version='2.1.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='26141'/>
+        <property name='download.size' value='26141'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/jakarta.annotation-api_2.1.1.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/jakarta.annotation-api_2.1.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.fipa' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='49108'/>
+        <property name='download.size' value='49108'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.fipa_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.fipa_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.logging' version='1.2.24.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='14815'/>
+        <property name='download.size' value='14815'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.logging_1.2.24.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.logging_1.2.24.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.registry' version='3.11.400.v20231102-2218'>
+      <properties size='2'>
+        <property name='artifact.size' value='203743'/>
+        <property name='download.size' value='203743'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.registry_3.11.400.v20231102-2218.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.registry_3.11.400.v20231102-2218.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.debug.core' version='3.21.200.v20231021-1513'>
+      <properties size='2'>
+        <property name='artifact.size' value='410681'/>
+        <property name='download.size' value='410681'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.debug.core_3.21.200.v20231021-1513.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.debug.core_3.21.200.v20231021-1513.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.touchpoint.eclipse' version='2.4.100.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='138779'/>
+        <property name='download.size' value='138779'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.touchpoint.eclipse_2.4.100.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.touchpoint.eclipse_2.4.100.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.guava' version='32.1.3.jre'>
+      <properties size='2'>
+        <property name='artifact.size' value='3043932'/>
+        <property name='download.size' value='3043932'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.guava_32.1.3.jre.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.guava_32.1.3.jre.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.gogo.command' version='1.1.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='39691'/>
+        <property name='download.size' value='39691'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.command_1.1.2.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.gogo.command_1.1.2.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sat4j.core' version='2.3.6.v20201214'>
+      <properties size='2'>
+        <property name='artifact.size' value='439860'/>
+        <property name='download.size' value='439860'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.sat4j.core_2.3.6.v20201214.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.sat4j.core_2.3.6.v20201214.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.experimental.proxy' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='77415'/>
+        <property name='download.size' value='77415'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.experimental.proxy_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.experimental.proxy_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xsd' version='2.19.0.v20230916-0637'>
+      <properties size='2'>
+        <property name='artifact.size' value='1026490'/>
+        <property name='download.size' value='1026490'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xsd_2.19.0.v20230916-0637.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xsd_2.19.0.v20230916-0637.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.hamcrest' version='2.2.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='123360'/>
+        <property name='download.size' value='123360'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.hamcrest_2.2.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.hamcrest_2.2.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.update.configurator' version='3.5.200.v20231102-0934'>
+      <properties size='2'>
+        <property name='artifact.size' value='101658'/>
+        <property name='download.size' value='101658'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.update.configurator_3.5.200.v20231102-0934.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.update.configurator_3.5.200.v20231102-0934.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='slf4j.simple' version='2.0.9'>
+      <properties size='2'>
+        <property name='artifact.size' value='16073'/>
+        <property name='download.size' value='16073'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/slf4j.simple_2.0.9.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/slf4j.simple_2.0.9.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.filesystem' version='1.10.200.v20231102-0934'>
+      <properties size='2'>
+        <property name='artifact.size' value='73981'/>
+        <property name='download.size' value='73981'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.filesystem_1.10.200.v20231102-0934.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.filesystem_1.10.200.v20231102-0934.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.director' version='2.6.200.v20231021-1906'>
+      <properties size='2'>
+        <property name='artifact.size' value='116057'/>
+        <property name='download.size' value='116057'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.director_2.6.200.v20231021-1906.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.director_2.6.200.v20231021-1906.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.engine' version='2.9.0.v20231105-1139'>
+      <properties size='2'>
+        <property name='artifact.size' value='242752'/>
+        <property name='download.size' value='242752'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.engine_2.9.0.v20231105-1139.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.engine_2.9.0.v20231105-1139.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.emf.xpath' version='0.4.100.v20230801-1255'>
+      <properties size='2'>
+        <property name='artifact.size' value='55251'/>
+        <property name='download.size' value='55251'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.emf.xpath_0.4.100.v20230801-1255.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.emf.xpath_0.4.100.v20230801-1255.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.log4j' version='1.2.24.v20221221-2012'>
+      <properties size='2'>
+        <property name='artifact.size' value='366243'/>
+        <property name='download.size' value='366243'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.log4j_1.2.24.v20221221-2012.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.log4j_1.2.24.v20221221-2012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.aries.spifly.dynamic.bundle' version='1.3.7'>
+      <properties size='2'>
+        <property name='artifact.size' value='153960'/>
+        <property name='download.size' value='153960'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.aries.spifly.dynamic.bundle_1.3.7.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.aries.spifly.dynamic.bundle_1.3.7.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.headless' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='113448'/>
+        <property name='download.size' value='113448'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.headless_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.headless_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.feature.dependencies' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.dependencies_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.dependencies_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.util.promise' version='1.3.0.202212101352'>
+      <properties size='2'>
+        <property name='artifact.size' value='85659'/>
+        <property name='download.size' value='85659'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.promise_1.3.0.202212101352.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.promise_1.3.0.202212101352.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.prefs' version='1.1.2.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='20165'/>
+        <property name='download.size' value='20165'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.prefs_1.1.2.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.prefs_1.1.2.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.network' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='1315375'/>
+        <property name='download.size' value='1315375'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.network_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.network_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.preferences' version='3.10.400.v20231102-2218'>
+      <properties size='2'>
+        <property name='artifact.size' value='140422'/>
+        <property name='download.size' value='140422'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.preferences_3.10.400.v20231102-2218.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.preferences_3.10.400.v20231102-2218.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.annotations' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='66662'/>
+        <property name='download.size' value='66662'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.annotations_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.annotations_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.xmlgraphics' version='2.9.0.v20230916-1600'>
+      <properties size='2'>
+        <property name='artifact.size' value='729268'/>
+        <property name='download.size' value='729268'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.xmlgraphics_2.9.0.v20230916-1600.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.xmlgraphics_2.9.0.v20230916-1600.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding' version='1.13.100.v20230708-0916'>
+      <properties size='2'>
+        <property name='artifact.size' value='294651'/>
+        <property name='download.size' value='294651'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding_1.13.100.v20230708-0916.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding_1.13.100.v20230708-0916.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.core' version='2.10.200.v20231102-1258'>
+      <properties size='2'>
+        <property name='artifact.size' value='82587'/>
+        <property name='download.size' value='82587'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.core_2.10.200.v20231102-1258.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.core_2.10.200.v20231102-1258.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.jobs' version='3.15.100.v20230930-1207'>
+      <properties size='2'>
+        <property name='artifact.size' value='118179'/>
+        <property name='download.size' value='118179'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.jobs_3.15.100.v20230930-1207.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.jobs_3.15.100.v20230930-1207.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext.util' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='319879'/>
+        <property name='download.size' value='319879'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.util_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext.util_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi.compatibility.state' version='1.2.900.v20231106-0859'>
+      <properties size='2'>
+        <property name='artifact.size' value='257059'/>
+        <property name='download.size' value='257059'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.compatibility.state_1.2.900.v20231106-0859.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi.compatibility.state_1.2.900.v20231106-0859.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.database' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='108649'/>
+        <property name='download.size' value='108649'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.database_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.database_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.device' version='1.1.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='20356'/>
+        <property name='download.size' value='20356'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.device_1.1.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.device_1.1.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.directorywatcher' version='1.4.200.v20230921-2011'>
+      <properties size='2'>
+        <property name='artifact.size' value='34538'/>
+        <property name='download.size' value='34538'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.directorywatcher_1.4.200.v20230921-2011.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.directorywatcher_1.4.200.v20230921-2011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.hamcrest.core' version='2.2.0.v20230809-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='9411'/>
+        <property name='download.size' value='9411'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.hamcrest.core_2.2.0.v20230809-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.hamcrest.core_2.2.0.v20230809-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.provisioning' version='1.2.0.201505202024'>
+      <properties size='2'>
+        <property name='artifact.size' value='13697'/>
+        <property name='download.size' value='13697'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.provisioning_1.2.0.201505202024.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.provisioning_1.2.0.201505202024.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf' version='3.11.0.v20230507-1923'>
+      <properties size='2'>
+        <property name='artifact.size' value='136377'/>
+        <property name='download.size' value='136377'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf_3.11.0.v20230507-1923.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf_3.11.0.v20230507-1923.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.library' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='6698713'/>
+        <property name='download.size' value='6698713'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.library_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.library_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.common' version='2.29.0.v20230916-0637'>
+      <properties size='2'>
+        <property name='artifact.size' value='387431'/>
+        <property name='download.size' value='387431'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.common_2.29.0.v20230916-0637.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.common_2.29.0.v20230916-0637.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore.xmi' version='2.36.0.v20231002-1156'>
+      <properties size='2'>
+        <property name='artifact.size' value='244252'/>
+        <property name='download.size' value='244252'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore.xmi_2.36.0.v20231002-1156.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.emf.ecore.xmi_2.36.0.v20231002-1156.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.updatechecker' version='1.4.100.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='20779'/>
+        <property name='download.size' value='20779'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.updatechecker_1.4.100.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.updatechecker_1.4.100.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='bcpg' version='1.77.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='450944'/>
+        <property name='download.size' value='450944'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/bcpg_1.77.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/bcpg_1.77.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.artifact.repository' version='1.5.200.v20231105-1139'>
+      <properties size='2'>
+        <property name='artifact.size' value='176327'/>
+        <property name='download.size' value='176327'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.artifact.repository_1.5.200.v20231105-1139.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.artifact.repository_1.5.200.v20231105-1139.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.operations' version='2.7.200.v20231105-1139'>
+      <properties size='2'>
+        <property name='artifact.size' value='79314'/>
+        <property name='download.size' value='79314'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.operations_2.7.200.v20231105-1139.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.operations_2.7.200.v20231105-1139.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.frameworkadmin' version='2.3.0.v20230919-1457'>
+      <properties size='2'>
+        <property name='artifact.size' value='39998'/>
+        <property name='download.size' value='39998'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.frameworkadmin_2.3.0.v20230919-1457.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.frameworkadmin_2.3.0.v20230919-1457.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.felix.scr' version='2.2.6'>
+      <properties size='2'>
+        <property name='artifact.size' value='402985'/>
+        <property name='download.size' value='402985'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.scr_2.2.6.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.felix.scr_2.2.6.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.runtime' version='3.30.0.v20231102-0719'>
+      <properties size='2'>
+        <property name='artifact.size' value='81062'/>
+        <property name='download.size' value='81062'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.runtime_3.30.0.v20231102-0719.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.runtime_3.30.0.v20231102-0719.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.stats' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='676449'/>
+        <property name='download.size' value='676449'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.stats_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.stats_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.garbagecollector' version='1.3.100.v20230630-1506'>
+      <properties size='2'>
+        <property name='artifact.size' value='27650'/>
+        <property name='download.size' value='27650'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.garbagecollector_1.3.100.v20230630-1506.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.garbagecollector_1.3.100.v20230630-1506.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xtext' version='2.33.0.v20231121-0955'>
+      <properties size='2'>
+        <property name='artifact.size' value='2761728'/>
+        <property name='download.size' value='2761728'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext_2.33.0.v20231121-0955.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.xtext_2.33.0.v20231121-0955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.publisher' version='1.9.0.v20230921-2011'>
+      <properties size='2'>
+        <property name='artifact.size' value='106246'/>
+        <property name='download.size' value='106246'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.publisher_1.9.0.v20230921-2011.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.publisher_1.9.0.v20230921-2011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ltk.core.refactoring' version='3.14.200.v20231106-1218'>
+      <properties size='2'>
+        <property name='artifact.size' value='355027'/>
+        <property name='download.size' value='355027'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ltk.core.refactoring_3.14.200.v20231106-1218.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ltk.core.refactoring_3.14.200.v20231106-1218.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.experimental.feature.proxy' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.experimental.feature.proxy_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.experimental.feature.proxy_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.osgi' version='3.18.600.v20231110-1900'>
+      <properties size='2'>
+        <property name='artifact.size' value='1541681'/>
+        <property name='download.size' value='1541681'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi_3.18.600.v20231110-1900.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.osgi_3.18.600.v20231110-1900.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.physics' version='0.0.0.202410141413'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.physics_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.physics_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.repository' version='2.8.0.v20231111-1058'>
+      <properties size='2'>
+        <property name='artifact.size' value='193243'/>
+        <property name='download.size' value='193243'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.repository_2.8.0.v20231111-1058.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.repository_2.8.0.v20231111-1058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.commons-io' version='2.15.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='500628'/>
+        <property name='download.size' value='500628'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.commons-io_2.15.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.commons-io_2.15.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sun.jna.platform' version='5.13.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='1363209'/>
+        <property name='download.size' value='1363209'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.sun.jna.platform_5.13.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.sun.jna.platform_5.13.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare.core' version='3.8.300.v20231106-1240'>
+      <properties size='2'>
+        <property name='artifact.size' value='71421'/>
+        <property name='download.size' value='71421'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.compare.core_3.8.300.v20231106-1240.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.compare.core_3.8.300.v20231106-1240.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.extensions.supplier' version='0.17.300.v20231028-1632'>
+      <properties size='2'>
+        <property name='artifact.size' value='43389'/>
+        <property name='download.size' value='43389'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.extensions.supplier_0.17.300.v20231028-1632.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.extensions.supplier_0.17.300.v20231028-1632.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.util.xml' version='1.0.2.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='18738'/>
+        <property name='download.size' value='18738'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.xml_1.0.2.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.xml_1.0.2.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.aopalliance' version='1.0.0.v20230720-0728'>
+      <properties size='2'>
+        <property name='artifact.size' value='12997'/>
+        <property name='download.size' value='12997'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.aopalliance_1.0.0.v20230720-0728.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.aopalliance_1.0.0.v20230720-0728.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.guava.failureaccess' version='1.0.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='4740'/>
+        <property name='download.size' value='4740'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.guava.failureaccess_1.0.2.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.guava.failureaccess_1.0.2.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.commands' version='3.11.200.v20231108-1058'>
+      <properties size='2'>
+        <property name='artifact.size' value='120416'/>
+        <property name='download.size' value='120416'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.commands_3.11.200.v20231108-1058.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.commands_3.11.200.v20231108-1058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='bcprov' version='1.77.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='8372360'/>
+        <property name='download.size' value='8372360'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/bcprov_1.77.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/bcprov_1.77.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.databinding.observable' version='1.13.100.v20230708-0916'>
+      <properties size='2'>
+        <property name='artifact.size' value='322835'/>
+        <property name='download.size' value='322835'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding.observable_1.13.100.v20230708-0916.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.databinding.observable_1.13.100.v20230708-0916.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.publisher.eclipse' version='1.5.200.v20231105-1123'>
+      <properties size='2'>
+        <property name='artifact.size' value='254288'/>
+        <property name='download.size' value='254288'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.publisher.eclipse_1.5.200.v20231105-1123.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.publisher.eclipse_1.5.200.v20231105-1123.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.event' version='1.4.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='47710'/>
+        <property name='download.size' value='47710'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.event_1.4.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.event_1.4.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.console' version='1.3.200.v20230921-2011'>
+      <properties size='2'>
+        <property name='artifact.size' value='31932'/>
+        <property name='download.size' value='31932'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.console_1.3.200.v20230921-2011.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.console_1.3.200.v20230921-2011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.reconciler.dropins' version='1.5.200.v20230921-2011'>
+      <properties size='2'>
+        <property name='artifact.size' value='53423'/>
+        <property name='download.size' value='53423'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.reconciler.dropins_1.5.200.v20230921-2011.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.reconciler.dropins_1.5.200.v20230921-2011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.pedestrian' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='975715'/>
+        <property name='download.size' value='975715'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.pedestrian_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.pedestrian_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.antlr.runtime' version='3.2.0.v20230929-1400'>
+      <properties size='2'>
+        <property name='artifact.size' value='171405'/>
+        <property name='download.size' value='171405'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.antlr.runtime_3.2.0.v20230929-1400.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.antlr.runtime_3.2.0.v20230929-1400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.batik.util' version='1.17.0.v20231009-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='144286'/>
+        <property name='download.size' value='144286'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.util_1.17.0.v20231009-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.batik.util_1.17.0.v20231009-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='slf4j.api' version='2.0.9'>
+      <properties size='2'>
+        <property name='artifact.size' value='64579'/>
+        <property name='download.size' value='64579'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/slf4j.api_2.0.9.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/slf4j.api_2.0.9.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.services' version='2.4.200.v20231103-2012'>
+      <properties size='2'>
+        <property name='artifact.size' value='73470'/>
+        <property name='download.size' value='73470'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.services_2.4.200.v20231103-2012.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.services_2.4.200.v20231103-2012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.experimental.feature.MPI' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.experimental.feature.MPI_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.experimental.feature.MPI_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.event' version='1.6.300.v20231012-1251'>
+      <properties size='2'>
+        <property name='artifact.size' value='35999'/>
+        <property name='download.size' value='35999'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.event_1.6.300.v20231012-1251.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.event_1.6.300.v20231012-1251.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.orbit.xml-apis-ext' version='1.0.0.v20230923-0644'>
+      <properties size='2'>
+        <property name='artifact.size' value='144098'/>
+        <property name='download.size' value='144098'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.orbit.xml-apis-ext_1.0.0.v20230923-0644.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.orbit.xml-apis-ext_1.0.0.v20230923-0644.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.core.resources' version='3.20.0.v20231102-0934'>
+      <properties size='2'>
+        <property name='artifact.size' value='944270'/>
+        <property name='download.size' value='944270'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.resources_3.20.0.v20231102-0934.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.core.resources_3.20.0.v20231102-0934.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.feature.extensions' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.extensions_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.extensions_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='jakarta.inject.jakarta.inject-api' version='2.0.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='10681'/>
+        <property name='download.size' value='10681'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/jakarta.inject.jakarta.inject-api_2.0.1.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/jakarta.inject.jakarta.inject-api_2.0.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.jxpath' version='1.3.0.v200911051830'>
+      <properties size='2'>
+        <property name='artifact.size' value='325431'/>
+        <property name='download.size' value='325431'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.jxpath_1.3.0.v200911051830.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.commons.jxpath_1.3.0.v200911051830.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.launcher' version='1.6.600.v20231106-1826'>
+      <properties size='2'>
+        <property name='artifact.size' value='55881'/>
+        <property name='download.size' value='55881'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.launcher_1.6.600.v20231106-1826.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.launcher_1.6.600.v20231106-1826.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.util.measurement' version='1.0.2.201802012109'>
+      <properties size='2'>
+        <property name='artifact.size' value='26354'/>
+        <property name='download.size' value='26354'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.measurement_1.0.2.201802012109.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.measurement_1.0.2.201802012109.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.traffic' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='475223'/>
+        <property name='download.size' value='475223'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.traffic_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.traffic_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.metadata' version='2.8.0.v20231102-1258'>
+      <properties size='2'>
+        <property name='artifact.size' value='376422'/>
+        <property name='download.size' value='376422'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.metadata_2.8.0.v20231102-1258.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.p2.metadata_2.8.0.v20231102-1258.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.common' version='3.18.200.v20231106-1826'>
+      <properties size='2'>
+        <property name='artifact.size' value='154417'/>
+        <property name='download.size' value='154417'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.common_3.18.200.v20231106-1826.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.common_3.18.200.v20231106-1826.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.util.function' version='1.2.0.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='23641'/>
+        <property name='download.size' value='23641'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.function_1.2.0.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.util.function_1.2.0.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf.identity' version='3.10.0.v20230422-0242'>
+      <properties size='2'>
+        <property name='artifact.size' value='69347'/>
+        <property name='download.size' value='69347'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.identity_3.10.0.v20230422-0242.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.identity_3.10.0.v20230422-0242.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.sshd.osgi' version='2.11.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='1812781'/>
+        <property name='download.size' value='1812781'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.sshd.osgi_2.11.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.apache.sshd.osgi_2.11.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.core' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='2601289'/>
+        <property name='download.size' value='2601289'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.core_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.core_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.antlr.runtime' version='4.7.2.v20221112-0806'>
+      <properties size='2'>
+        <property name='artifact.size' value='369427'/>
+        <property name='download.size' value='369427'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.antlr.runtime_4.7.2.v20221112-0806.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.antlr.runtime_4.7.2.v20221112-0806.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.sat4j.pb' version='2.3.6.v20201214'>
+      <properties size='2'>
+        <property name='artifact.size' value='443025'/>
+        <property name='download.size' value='443025'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.sat4j.pb_2.3.6.v20201214.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.sat4j.pb_2.3.6.v20201214.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.experimental.MPI' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='79469'/>
+        <property name='download.size' value='79469'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.experimental.MPI_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.experimental.MPI_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='gama.feature.library' version='0.0.0.202410141413'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.library_0.0.0.202410141413/'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/features/gama.feature.library_0.0.0.202410141413'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.serialize' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='230414'/>
+        <property name='download.size' value='230414'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.serialize_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.serialize_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='gama.extension.image' version='0.0.0.202410141413'>
+      <properties size='2'>
+        <property name='artifact.size' value='4817127'/>
+        <property name='download.size' value='4817127'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.image_0.0.0.202410141413.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/gama.extension.image_0.0.0.202410141413.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.google.inject' version='7.0.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='801785'/>
+        <property name='download.size' value='801785'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.inject_7.0.0.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/com.google.inject_7.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.ecf.ssl' version='1.3.0.v20230507-1921'>
+      <properties size='2'>
+        <property name='artifact.size' value='19591'/>
+        <property name='download.size' value='19591'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.ssl_1.3.0.v20230507-1921.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.ecf.ssl_1.3.0.v20230507-1921.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.junit' version='4.13.2.v20230809-1000'>
+      <properties size='2'>
+        <property name='artifact.size' value='424926'/>
+        <property name='download.size' value='424926'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.junit_4.13.2.v20230809-1000.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.junit_4.13.2.v20230809-1000.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.e4.core.di.annotations' version='1.8.200.v20231103-2012'>
+      <properties size='2'>
+        <property name='artifact.size' value='14197'/>
+        <property name='download.size' value='14197'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.annotations_1.8.200.v20231103-2012.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.e4.core.di.annotations_1.8.200.v20231103-2012.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.equinox.bidi' version='1.4.400.v20231106-0858'>
+      <properties size='2'>
+        <property name='artifact.size' value='54205'/>
+        <property name='download.size' value='54205'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.bidi_1.4.400.v20231106-0858.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.eclipse.equinox.bidi_1.4.400.v20231106-0858.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.osgi.service.metatype' version='1.4.1.202109301733'>
+      <properties size='2'>
+        <property name='artifact.size' value='30379'/>
+        <property name='download.size' value='30379'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.metatype_1.4.1.202109301733.jar'/>
+        <property name='file.name' value='/mnt/c/Users/lucas/Documents/GitHub/Distribution_Model/gama.headless.product/linux/gtk/x86_64/plugins/org.osgi.service.metatype_1.4.1.202109301733.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
