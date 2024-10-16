@@ -11,9 +11,9 @@ Java Binding for Open MPI (https://www.open-mpi.org/faq/?category=java)
 
 # How to start examples : (N > 2 and < 4)
 
-./startMpiModel DistrbutionModel/Distribution_model_KMEAN.xml N
+./startMpiModel distributed_comodel/Distribution_model_KMEAN.xml N
 
-./startMpiModel DistrbutionModel/Distribution_model_GRID.xml 4
+./startMpiModel distributed_comodel/Distribution_model_GRID.xml 4
 
 # Results 
 
