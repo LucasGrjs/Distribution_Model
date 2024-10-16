@@ -1,6 +1,6 @@
 # Distribution_Model
 
-Proof of concepts and experimentations for the article : "Distribution model: an approach to facilitate the distribution ofagent-based models" for AAMAS 2025 (https://aamas2025.org/)](https://aamas2025.org/))
+Proof of concepts and experimentations for the article : "Distribution model: an approach to facilitate the distribution ofagent-based models" for AAMAS 2025 [https://aamas2025.org/](https://aamas2025.org/))
 
 # Requirements  
 Java 17
