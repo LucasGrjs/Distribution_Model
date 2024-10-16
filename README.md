@@ -9,7 +9,7 @@ mpirun (Open MPI) 4.1.4 (https://www.open-mpi.org/software/ompi/v4.1/)
 
 Java Binding for Open MPI (https://www.open-mpi.org/faq/?category=java)
 
-# How to start examples : (N > 2 and < 4)
+# How to start examples : N > 2 and < 6*  (* the limit is the number of core on your machine)
 
 ./startMpiModel distributed_comodel/Distribution_model_KMEAN.xml N
 
